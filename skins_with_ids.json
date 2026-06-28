@@ -47,7 +47,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "rbxassetid://124557876169542",
+    "price": 1848.67
   },
   {
     "id": "skin-e757fd7191f9_1",
@@ -97,7 +98,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 1649.99
   },
   {
     "id": "skin-e757fd7191f9_2",
@@ -147,7 +149,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 948.3
   },
   {
     "id": "skin-e757fd7191f9_3",
@@ -197,7 +200,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 199.99
   },
   {
     "id": "skin-e757fd7191f9_4",
@@ -247,7 +251,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 153.0
   },
   {
     "id": "skin-7646a28247e0_0",
@@ -297,7 +302,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "rbxassetid://128474616293746",
+    "price": 658.19
   },
   {
     "id": "skin-7646a28247e0_1",
@@ -347,7 +353,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 154.0
   },
   {
     "id": "skin-7646a28247e0_2",
@@ -397,7 +404,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 65.98
   },
   {
     "id": "skin-7646a28247e0_3",
@@ -447,7 +455,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 65.78
   },
   {
     "id": "skin-7646a28247e0_4",
@@ -497,7 +506,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 65.4
   },
   {
     "id": "skin-71c8a21234d4_0",
@@ -547,7 +557,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 0
   },
   {
     "id": "skin-71c8a21234d4_1",
@@ -597,7 +608,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 1184.9
   },
   {
     "id": "skin-71c8a21234d4_2",
@@ -647,7 +659,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 875.81
   },
   {
     "id": "skin-71c8a21234d4_3",
@@ -697,7 +710,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 0
   },
   {
     "id": "skin-71c8a21234d4_4",
@@ -747,7 +761,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 172.34
   },
   {
     "id": "skin-e728cedb22fe_0",
@@ -797,7 +812,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 1320.48
   },
   {
     "id": "skin-e728cedb22fe_1",
@@ -847,7 +863,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 350.0
   },
   {
     "id": "skin-e728cedb22fe_2",
@@ -897,7 +914,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 199.24
   },
   {
     "id": "skin-e728cedb22fe_3",
@@ -947,7 +965,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 185.19
   },
   {
     "id": "skin-e728cedb22fe_4",
@@ -997,7 +1016,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 161.98
   },
   {
     "id": "skin-03513562b183_0",
@@ -1047,7 +1067,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 0
   },
   {
     "id": "skin-03513562b183_1",
@@ -1097,7 +1118,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 130.29
   },
   {
     "id": "skin-03513562b183_2",
@@ -1147,7 +1169,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 77.93
   },
   {
     "id": "skin-03513562b183_3",
@@ -1197,7 +1220,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 79.02
   },
   {
     "id": "skin-03513562b183_4",
@@ -1247,7 +1271,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 78.69
   },
   {
     "id": "skin-a4133c8cedcb_0",
@@ -1297,7 +1322,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 0
   },
   {
     "id": "skin-a4133c8cedcb_1",
@@ -1347,7 +1373,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 586.74
   },
   {
     "id": "skin-a4133c8cedcb_2",
@@ -1397,7 +1424,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 310.0
   },
   {
     "id": "skin-a4133c8cedcb_3",
@@ -1447,7 +1475,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 275.74
   },
   {
     "id": "skin-a4133c8cedcb_4",
@@ -1497,7 +1526,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 263.41
   },
   {
     "id": "skin-438616f5a678_0",
@@ -1547,7 +1577,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_geometric_blue_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 793.5
   },
   {
     "id": "skin-e757fd7191f9_0",
@@ -1597,7 +1628,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 1848.67
   },
   {
     "id": "skin-e757fd7191f9_1",
@@ -1647,7 +1679,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 1649.99
   },
   {
     "id": "skin-e757fd7191f9_2",
@@ -1697,7 +1730,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 948.3
   },
   {
     "id": "skin-e757fd7191f9_3",
@@ -1747,7 +1781,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 199.99
   },
   {
     "id": "skin-e757fd7191f9_4",
@@ -1797,7 +1832,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_camo_grey_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 153.0
   },
   {
     "id": "skin-7646a28247e0_0",
@@ -1847,7 +1883,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "128474616293746",
+    "price": 658.19
   },
   {
     "id": "skin-7646a28247e0_1",
@@ -1897,7 +1934,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 150.0
   },
   {
     "id": "skin-7646a28247e0_2",
@@ -1947,7 +1985,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 65.98
   },
   {
     "id": "skin-7646a28247e0_3",
@@ -1997,7 +2036,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_medium"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 65.78
   },
   {
     "id": "skin-7646a28247e0_4",
@@ -2047,7 +2087,8 @@
       "name": "leather_handwraps",
       "image_inventory": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_heavy"
     },
-    "robloxImageId": ""
+    "robloxImageId": "",
+    "price": 65.4
   },
   {
     "id": "skin-71c8a21234d4_0",
